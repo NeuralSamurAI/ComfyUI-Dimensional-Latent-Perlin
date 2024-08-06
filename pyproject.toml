@@ -1,6 +1,6 @@
 [project]
 name = "pr-comfyui-dimensional-latent-perlin-03646db4"
-description = ""
+description = "Dimensional Latent Perlin is a custom node for ComfyUI that generates Perlin noise in the latent space. "
 version = "1.0.0"
 license = {file = "LICENSE"}
 
