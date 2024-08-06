@@ -1,4 +1,4 @@
-# NoisyLatentPerlin for ComfyUI
+# Dimensional Latent Perlin for ComfyUI
 
 ## Description
 
