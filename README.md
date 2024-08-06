@@ -2,7 +2,7 @@
 
 ## Description
 
-NoisyLatentPerlin is a custom node for ComfyUI that generates Perlin noise in the latent space. This node is designed to work seamlessly with various diffusion models and can be used as an alternative or complement to standard random noise generators in image generation pipelines.
+Dimensional Latent Perlin is a custom node for ComfyUI that generates Perlin noise in the latent space. This node is designed to work seamlessly with various diffusion models and can be used as an alternative or complement to standard random noise generators in image generation pipelines.
 
 ## Features
 
@@ -14,15 +14,15 @@ NoisyLatentPerlin is a custom node for ComfyUI that generates Perlin noise in th
 
 ## Installation
 
-1. Clone this repository into your ComfyUI custom nodes directory:
+1. Clone this repository into your ComfyUI custom nodes directory via ComfyUI Manager or:
 
-```git clone https://github.com/yourusername/NoisyLatentPerlin.git```
+```git clone https://github.com/neuralsamurai/ComfyUI-Dimensional-Latent-Perlin.git```
 
 2. Restart ComfyUI or reload custom nodes.
 
 ## Usage
 
-After installation, the NoisyLatentPerlin node will be available in the ComfyUI interface under the "latent/noise" category.
+After installation, the Dimensional Latent Perlin node will be available in the ComfyUI interface under the "latent/noise" category.
 
 ### Input Parameters
 
