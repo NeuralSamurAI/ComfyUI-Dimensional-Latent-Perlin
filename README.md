@@ -1,6 +1,6 @@
 # Dimensional Latent Perlin for ComfyUI
 
-![Node](https://github.com/neuralsamurai/comfyui-dimensional-latent-perlin/assets/Node.png)
+![Node](https://github.com/NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin/assets/Node.png)
 
 ## Description
 
