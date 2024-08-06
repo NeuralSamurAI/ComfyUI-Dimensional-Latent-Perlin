@@ -44,7 +44,7 @@ After installation, the NoisyLatentPerlin node will be available in the ComfyUI 
 
 ## Examples
 
-(You can add some example workflows or images here)
+Workflow available in the asset directory
 
 ## Contributing
 
