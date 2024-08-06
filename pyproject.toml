@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-dimensional-latent-perlin"
+description = "Dimensional Latent Perlin is a custom node for ComfyUI that generates Perlin noise in the latent space. This node is designed to work seamlessly with various diffusion models and can be used as an alternative or complement to standard random noise generators in image generation pipelines."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/NeuralSamurAI/ComfyUI-Dimensional-Latent-Perlin"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Dimensional-Latent-Perlin"
+Icon = ""
